@@ -23,5 +23,4 @@ obj-$(CONFIG_HI543) += hi543_v4l2.o
 obj-$(CONFIG_HI707) += hi707_v4l2.o
 obj-$(CONFIG_IMX111) += imx111.o
 obj-$(CONFIG_IMX119) += imx119_v4l2.o
-obj-$(CONFIG_HI707) += hi707_v4l2.o
 
